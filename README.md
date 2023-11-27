@@ -7,24 +7,6 @@ I'm from VietNam
 <p>🌱 I'm currently learning Java, PHP, SQL, JS</p>
 <p>📫 How to reach me? vanlinh11052004nguyenvan@gmail.com</p>
 
-## 💻 Skills
-<p>
-</p>
-
-## 👥 Connect With Me
-<p>
-</p>
-
-## 🌟 Github Badges
-<p>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p><img src="https://github-profile-trophy.vercel.app/?username=">
-</p>
-
-## 📊 Github Status
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nguynlinh.1105) 
 
