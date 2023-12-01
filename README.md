@@ -3,6 +3,31 @@
 I'm from VietNam
 
 ## 💫 Liitle Bit More About Me
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+        }
+
+        #star {
+            width: 100%;
+            height: 400px;
+            position: absolute;
+            animation: rotateStar 10s linear infinite;
+        }
+
+        @keyframes rotateStar {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head
+
 <p>🔭 I'm currently working on Student&Website Developer</p>
 <p>🌱 I'm currently learning Java, PHP, SQL, JS</p>
 <p>📫 How to reach me? vanlinh11052004nguyenvan@gmail.com</p>
