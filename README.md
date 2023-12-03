@@ -1,6 +1,4 @@
 # Hi there 👋, My name is NVL
-
-I'm from VietNam
 <a href="#" target="_blank">
   <img src="svg/linhnguyen.svg" width="1200" alt="LinhNguyenNVL" />
 </a>
