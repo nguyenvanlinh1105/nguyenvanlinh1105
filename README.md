@@ -1,6 +1,4 @@
-# Hi there 👋, My name is NVL
-
-I'm from VietNam
+# Hi Alient 👋, My name is NVL
 <a href="#" target="_blank">
   <img src="svg/linhnguyen.svg" width="1200" alt="LinhNguyenNVL" />
 </a>
@@ -8,7 +6,7 @@ I'm from VietNam
 ## 💫 Liitle Bit More About Me
 
 <p>🔭 I'm currently working on Student&Website Developer</p>
-<p>🌱 I'm currently learning Java, PHP, SQL, JS</p>
+<p>🌱 I'm currently learning Java, PHP, SQL, JS, MySQL, C#</p>
 <p>📫 How to reach me? vanlinh11nguyenlinh@gmail.com</p>
 
 
