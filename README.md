@@ -28,7 +28,7 @@
     <tr>
       <td>
         <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenvanlinh1105">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenvanlinh1105&theme=dracula"/>
+          <img width="705" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nguyenvanlinh1105&theme=dracula"/>
         </a>
       </td>
     </tr>
